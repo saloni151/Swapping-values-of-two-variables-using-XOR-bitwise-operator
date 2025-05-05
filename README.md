@@ -1,10 +1,9 @@
 # Swapping-values-of-two-variables-using-XOR-bitwise-operator
 
-# Swap Two Variables Using XOR Operator in Python
 
 # Description
 
-This repository contains a simple Python program that demonstrates how to swap the values of two variables using the XOR bitwise operator. This method is efficient and doesn’t require a temporary variable.
+This repository contains a simple Python program demonstrating how to swap the values of two variables using the XOR bitwise operator. This method is efficient and doesn’t require a temporary variable.
 
 # How It Works
 
